@@ -11,7 +11,7 @@
   </tab>
 </tabs>`
 
-//without crossfade
+// without crossfade
 <tabs>
   <tab tabTitle="Tab Title 1 ">
     Here is the content of Tab title 1
