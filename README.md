@@ -1,7 +1,7 @@
 # angular2-tabs usage
 
-```javascript
-<tabs [crossFade]=crossfade>
+```html
+<tabs [crossFade]=true>
   <tab tabTitle="Tab Title 1 ">
     Here is the content of Tab title 1
   </tab>
